@@ -1,0 +1,19 @@
+{
+  "name": "webpackgetstarted",
+  "version": "1.0.0",
+  "description": "Learning Webpack",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jljacoblo@github.com/jljacoblo/WebpackGetParted.git"
+  },
+  "author": "Jacob Lo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jljacoblo/WebpackGetParted/issues"
+  },
+  "homepage": "https://github.com/jljacoblo/WebpackGetParted#readme"
+}
