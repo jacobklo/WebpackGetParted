@@ -1,0 +1,12 @@
+{
+  "devDependencies":
+  {
+    "url-loader" : "latest"
+    ,"css-loader" : "latest"
+    ,"style-loader" : "latest"
+    ,"file-loader" : "latest"
+    ,"webpack" : "latest"
+    ,"html-webpack-plugin" : "latest"
+    ,"open-browser-webpack-plugin" : "latest"
+  }
+}
