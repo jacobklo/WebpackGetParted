@@ -34,5 +34,9 @@ module.exports = {
             title : 'CHANGE ME!!!',
             filename : 'index.html'
         })
+        // use "env DEBUG=true webpack" in the command
+        ,new webpack.DefinePlugin({
+            __DEV__: JSON.stringify(JSON.parse(process.env.DEBUG || 'false'))
+        })
     ]
 };

@@ -10,4 +10,3 @@ document.body.appendChild(imgSmall);
 var imgBig = document.createElement("img");
 imgBig.src = require("./../img/big.png");
 document.body.appendChild(imgBig);
-
